@@ -1,0 +1,10 @@
+C:\Users\TD\source\repos\TDwyerProj3A\TDwyerProj3A\bin\Debug\TDwyerProj3A.exe.config
+C:\Users\TD\source\repos\TDwyerProj3A\TDwyerProj3A\bin\Debug\TDwyerProj3A.exe
+C:\Users\TD\source\repos\TDwyerProj3A\TDwyerProj3A\bin\Debug\TDwyerProj3A.pdb
+C:\Users\TD\source\repos\TDwyerProj3A\TDwyerProj3A\obj\Debug\TDwyerProj3A.csprojAssemblyReference.cache
+C:\Users\TD\source\repos\TDwyerProj3A\TDwyerProj3A\obj\Debug\TDwyerProj3A.TdwyerProj3B.resources
+C:\Users\TD\source\repos\TDwyerProj3A\TDwyerProj3A\obj\Debug\TDwyerProj3A.Properties.Resources.resources
+C:\Users\TD\source\repos\TDwyerProj3A\TDwyerProj3A\obj\Debug\TDwyerProj3A.csproj.GenerateResource.cache
+C:\Users\TD\source\repos\TDwyerProj3A\TDwyerProj3A\obj\Debug\TDwyerProj3A.csproj.CoreCompileInputs.cache
+C:\Users\TD\source\repos\TDwyerProj3A\TDwyerProj3A\obj\Debug\TDwyerProj3A.exe
+C:\Users\TD\source\repos\TDwyerProj3A\TDwyerProj3A\obj\Debug\TDwyerProj3A.pdb
